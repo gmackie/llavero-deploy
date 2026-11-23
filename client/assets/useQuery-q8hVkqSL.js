@@ -1,0 +1,1 @@
+import{p as e,r as t}from"./layer-card-mar4dya5kl1vvie6-CGScGXaJ.js";function n(n,r){return t(n,e,r)}export{n as t};

@@ -1,0 +1,1 @@
+import{n as e}from"./api-sctg1Tmd.js";import{t}from"./useSuspenseQuery-CIKEsTqD.js";var n=()=>t(e.auth.session()).data;export{n as t};

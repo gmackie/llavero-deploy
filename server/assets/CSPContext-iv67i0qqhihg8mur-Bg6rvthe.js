@@ -1,0 +1,1 @@
+import{a as e}from"./chunk-CTp1dE8v.js";import{n as t}from"./jsx-runtime-CZeTpol9.js";var n=e(t(),1),r=n.createContext(void 0);r.displayName=`CSPContext`;var i={disableStyleElements:!1};function a(){return n.useContext(r)??i}export{a as t};

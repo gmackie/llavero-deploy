@@ -1,0 +1,1 @@
+import{I as e,T as t,q as n}from"./sqlite-introspector-_wy6Ac6e-Bf1-qTMj.js";var r=n({raw(r,i=[]){return n({sql:r,query:e.createWithSql(r),parameters:n(i),queryId:t()})}});export{r as t};

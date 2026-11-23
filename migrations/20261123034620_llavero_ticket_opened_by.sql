@@ -1,0 +1,1 @@
+ALTER TABLE `llavero_intake_ticket` ADD `opened_by` text;

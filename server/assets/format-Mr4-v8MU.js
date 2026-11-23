@@ -1,0 +1,1 @@
+var e=new Intl.DateTimeFormat(`en-US`,{dateStyle:`medium`,timeZone:`UTC`}),t=new Intl.DateTimeFormat(`en-US`,{dateStyle:`medium`,timeStyle:`short`,timeZone:`UTC`}),n=e=>e instanceof Date?e:new Date(e),r=t=>e.format(n(t)),i=e=>`${t.format(n(e))} UTC`;export{i as n,r as t};

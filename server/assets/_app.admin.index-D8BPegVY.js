@@ -1,0 +1,1 @@
+var e={limit:5};export{e as t};

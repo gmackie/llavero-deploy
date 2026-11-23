@@ -1,0 +1,1 @@
+import{n as e}from"./api-BMe1T7TS.js";import{t}from"./useSuspenseQuery-B027dE-X.js";var n=()=>t(e.auth.session()).data;export{n as t};

@@ -1,0 +1,1 @@
+import{Di as e,Mi as t,Si as n,Ti as r,wi as i}from"./api-sctg1Tmd.js";var a=r(n.pipe(i(e(/^[a-z]{3}_[A-Za-z0-9-]{1,80}$/)))),o=e=>t(a(e));export{o as t};
