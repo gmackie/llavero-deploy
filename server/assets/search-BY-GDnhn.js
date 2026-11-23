@@ -1,1 +1,0 @@
-import{Jt as e,Ut as t,Wt as n,in as r,zt as i}from"./runtime-3W6_Mgkq.js";var a=n(i.pipe(t(e(/^[a-z]{3}_[A-Za-z0-9-]{1,80}$/)))),o=e=>r(a(e));export{o as t};

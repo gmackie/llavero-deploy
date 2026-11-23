@@ -1,0 +1,1 @@
+import{n as e}from"./api-DccVDVcR.js";import{t}from"./useSuspenseQuery-6wHrv0QH.js";var n=()=>t(e.auth.session()).data;export{n as t};
